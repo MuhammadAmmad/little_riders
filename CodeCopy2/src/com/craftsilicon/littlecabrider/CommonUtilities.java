@@ -48,7 +48,7 @@ public final class CommonUtilities {
 	 * Intent used to display a message in the screen.
 	 */
 	public static final String DISPLAY_MESSAGE_ACTION = "com.uberorg.DISPLAY_MESSAGE";
-	public static final String DISPLAY_REGISTER_GCM = "com.uberorg.REGISTER_GCM.op";
+	public static final String DISPLAY_REGISTER_GCM = "com.uberorg.REGISTER_GCM";
 
 	/**
 	 * Intent's extra that contains the message to be displayed.
